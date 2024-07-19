@@ -1,2 +1,2 @@
-# Biodiversity-codecademy
+# Biodiversity
  
